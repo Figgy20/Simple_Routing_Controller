@@ -12,7 +12,7 @@
     <div class="container">
         <h1>Keagan Swanepoel</h1>
         <nav>
-            <a href="{{ AboutMeController::class, 'display' }}">About</a>
+            <a href="/about">About</a>
             <a href="{{ SkillsController::class, 'display' }}">Skills</a>
             <a href="{{ AboutMeController::class, 'display' }}">Portfolio</a>
         </nav>
